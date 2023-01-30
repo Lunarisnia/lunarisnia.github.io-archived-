@@ -1,0 +1,1 @@
+import{_ as e,V as a}from"./VApp.965fff87.js";import{d as t,o,c as r,w as s,a as c}from"./index.21b2d680.js";import"./tag.8761ae63.js";import"./resizeObserver.e9e5a27c.js";const u=t({__name:"Fullscreen",setup(n){return(p,_)=>(o(),r(a,null,{default:s(()=>[c(e)]),_:1}))}});export{u as default};

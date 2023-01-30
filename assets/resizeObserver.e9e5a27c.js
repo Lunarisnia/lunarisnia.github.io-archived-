@@ -1,0 +1,1 @@
+import{r as c,I as f,j as i,z as u,s as v}from"./index.21b2d680.js";function a(t){const o=c(),s=c();if(f){const n=new ResizeObserver(e=>{t==null||t(e,n),e.length&&(s.value=e[0].contentRect)});i(()=>{n.disconnect()}),u(o,(e,r)=>{r&&(n.unobserve(r),s.value=void 0),e&&n.observe(e)},{flush:"post"})}return{resizeRef:o,contentRect:v(s)}}export{a as u};
